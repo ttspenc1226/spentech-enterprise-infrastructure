@@ -29,9 +29,9 @@ The environment is being built incrementally as a portfolio project using enterp
 | Project | Status |
 |---------|--------|
 | Enterprise Network | 🟡 In Progress |
-| Windows Server | ⏳ Planned |
+| Windows Server | 🟡 In Progress |
 | Azure Infrastructure | ⏳ Planned |
-| Active Directory | ⏳ Planned |
+| Active Directory | 🟡 In Progress |
 | PowerShell Automation | ⏳ Planned |
 | Endpoint Management | ⏳ Planned |
 
