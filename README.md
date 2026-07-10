@@ -1,50 +1,18 @@
 # SpenTech Enterprise Infrastructure
 
-## Overview
+> 🚧 **Project Status:** Active Development
 
-Welcome to the SpenTech Enterprise Infrastructure project.
+Welcome! This repository documents my ongoing enterprise IT infrastructure project for a fictional company called **SpenTech**.
 
-This repository documents the design and implementation of a fictional enterprise IT environment built to simulate a real corporate network. The project demonstrates practical skills in networking, systems administration, cloud infrastructure, automation, and endpoint management.
+Rather than building isolated labs, my goal is to create a complete enterprise environment that demonstrates how networking, Windows Server, cloud infrastructure, and automation work together in a real organization.
 
-The environment is being built incrementally as a portfolio project using enterprise technologies.
-
----
-
-## Technologies
-
-- Cisco Packet Tracer
-- Windows Server
-- Microsoft Azure
-- Active Directory
-- DNS
-- DHCP
-- Group Policy
-- PowerShell
-- Git & GitHub
-
----
-
-## Current Progress
-
-| Project | Status |
-|---------|--------|
-| Enterprise Network | 🟡 In Progress |
-| Windows Server | 🟡 In Progress |
-| Azure Infrastructure | ⏳ Planned |
-| Active Directory | 🟡 In Progress |
-| PowerShell Automation | ⏳ Planned |
-| Endpoint Management | ⏳ Planned |
-
----
-
-## Project Roadmap
-
-- Build enterprise network
-- Deploy Windows Server
-- Configure Active Directory
-- Configure DNS and DHCP
-- Implement Group Policy
-- Deploy Azure infrastructure
-- Automate administrative tasks with PowerShell
-- Configure endpoint management
-- Document the environment
+Every feature is documented as it is implemented, including design decisions, configuration steps, troubleshooting, and screenshots.
+> Current areas of focus include:
+>
+> - 🌐 Enterprise Networking (Cisco Packet Tracer)
+> - 🖥️ Windows Server Administration
+> - ☁️ Microsoft Azure
+> - 💻 Endpoint Management
+> - 🤖 Automation with PowerShell and Python (planned)
+>
+> The goal is to continuously expand this environment while documenting every phase of development.
